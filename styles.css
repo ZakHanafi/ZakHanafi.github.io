@@ -9,7 +9,7 @@ p1{
 
 .container-fluid {
     background-image: url(https://www.pexels.com/photo/stall-of-fresh-produce-vegetables-on-a-market-8827356/); /* Path to your image */
-    background-color: red; /* Background color */
+    background-color: white; /* Background color */
     background-blend-mode: screen; /* Blend mode */
 }
 
