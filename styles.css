@@ -5,3 +5,11 @@ p1{
     padding: 10px;
     margin: 10px; 
 }
+
+
+.container-fluid {
+    background-image: url('image.jpg'); /* Path to your image */
+    background-color: red; /* Background color */
+    background-blend-mode: screen; /* Blend mode */
+}
+
