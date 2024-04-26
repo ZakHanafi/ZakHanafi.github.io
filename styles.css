@@ -8,7 +8,7 @@ p1{
 
 
 .container-fluid {
-    background-image: url('image.jpg'); /* Path to your image */
+    background-image: url('pictures/backgroundimage.jpg'); /* Path to your image */
     background-color: red; /* Background color */
     background-blend-mode: screen; /* Blend mode */
 }
