@@ -6,6 +6,10 @@ p1{
     margin: 10px; 
 }
 
+img{
+    max-width: 50%; 
+    height: auto; 
+}
 
 
 
