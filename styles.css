@@ -6,6 +6,12 @@ p1{
     margin: 10px; 
 }
 
+body {
+    background-image: farmgoods.jpg;
+    background-size: cover; /* or contain */
+    background-position: center;
+    background-attachment: fixed;
+}
 
 
 
